@@ -8,6 +8,8 @@
   <img src="https://img.shields.io/badge/responsive-full-red">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg">
 </div>
+  
+<hr/>
 
 ### 2. [Corona-Tracker](https://github.com/neeleshio/Corona-Tracker#--)
 <div>
@@ -15,13 +17,17 @@
   <img src="https://img.shields.io/badge/responsive-full-red">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg">
 </div>
-  
+    
+<hr/>
+
  ### 3. [Analytics-Dashboard](https://github.com/neeleshio/Analytics-Dashboard#--)
 <div>
   <img src="https://img.shields.io/badge/live-private-blueviolet">
   <img src="https://img.shields.io/badge/responsive-semi-red">
   <img src="https://img.shields.io/badge/license-frontrow-blue.svg">
 </div>
+  
+<hr/>
 
  ### 4. [Video-Rental-Store](https://github.com/neeleshio/Video-Rental-Store#--)
 <div>
@@ -29,6 +35,8 @@
   <img src="https://img.shields.io/badge/responsive-semi-red">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg">
 </div>
+  
+<hr/>
 
  ### 5. [Mail-Box](https://github.com/neeleshio/Mail-Box#--)
 <div>
