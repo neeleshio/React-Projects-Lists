@@ -44,7 +44,7 @@
 
  ### 5. [Mail-Box](https://github.com/neeleshio/Mail-Box#--)
 <div>
-  <a href="rental-video-store.herokuapp.com/"><img src="https://img.shields.io/badge/live-no-blueviolet">
+  <a href="https://rental-video-store.herokuapp.com/"><img src="https://img.shields.io/badge/live-no-blueviolet">
   <img src="https://img.shields.io/badge/responsive-semi-red">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg">
 </div>
