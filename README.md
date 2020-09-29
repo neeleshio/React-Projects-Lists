@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/neeleshio/React-Projects-Lists/master/rp.png" alt="react-projects" width="600">
 </h1>
 
-<h4 align="center">Responsive photography store admin-dashboard built with Reactjs.</h4>
+<h4 align="center">List of some of my projects built with ReactJs.</h4>
 
 <hr/>
 
