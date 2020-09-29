@@ -3,28 +3,28 @@
 </h1>
 
 ### 1. [Photography-Store-Admin](https://github.com/neeleshio/Photography-Store)
-<div align="center">
+<div>
   <a href="https://photography-store.vercel.app/"><img src="https://img.shields.io/badge/live-yes-blueviolet">
   <img src="https://img.shields.io/badge/responsive-full-red">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg">
 </div>
 
 ### 2. [Corona-Tracker](https://github.com/neeleshio/Corona-Tracker)
-<div align="center">
+<div>
   <a href="https://coronatrackerindia.vercel.app/"><img src="https://img.shields.io/badge/live-yes-blueviolet">
   <img src="https://img.shields.io/badge/responsive-full-red">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg">
 </div>
   
  ### 3. [Analytics-Dashboard](https://github.com/neeleshio/Analytics-Dashboard)
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/live-private-blueviolet">
   <img src="https://img.shields.io/badge/responsive-semi-red">
   <img src="https://img.shields.io/badge/license-frontrow-blue.svg">
 </div>
 
  ### 3. [Analytics-Dashboard](https://github.com/neeleshio/Analytics-Dashboard)
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/live-private-blueviolet">
   <img src="https://img.shields.io/badge/responsive-semi-red">
   <img src="https://img.shields.io/badge/license-frontrow-blue.svg">
