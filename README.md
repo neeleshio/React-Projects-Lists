@@ -2,6 +2,10 @@
   <img src="https://raw.githubusercontent.com/neeleshio/React-Projects-Lists/master/rp.png" alt="react-projects" width="600">
 </h1>
 
+<h4 align="center">Responsive photography store admin-dashboard built with Reactjs.</h4>
+
+<hr/>
+
 ### 1. [Photography-Store-Admin](https://github.com/neeleshio/Photography-Store#--)
 <div>
   <a href="https://photography-store.vercel.app/"><img src="https://img.shields.io/badge/live-yes-blueviolet">
