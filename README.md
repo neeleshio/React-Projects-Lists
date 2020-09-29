@@ -35,7 +35,7 @@
 
  ### 4. [Video-Rental-Store](https://github.com/neeleshio/Video-Rental-Store#--)
 <div>
-  <img src="https://img.shields.io/badge/live-yes-blueviolet">
+  <a href="https://rental-video-store.herokuapp.com/"><img src="https://img.shields.io/badge/live-yes-blueviolet">
   <img src="https://img.shields.io/badge/responsive-semi-red">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg">
 </div>
@@ -44,7 +44,7 @@
 
  ### 5. [Mail-Box](https://github.com/neeleshio/Mail-Box#--)
 <div>
-  <a href="https://rental-video-store.herokuapp.com/"><img src="https://img.shields.io/badge/live-no-blueviolet">
+  <img src="https://img.shields.io/badge/live-no-blueviolet">
   <img src="https://img.shields.io/badge/responsive-semi-red">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg">
 </div>
