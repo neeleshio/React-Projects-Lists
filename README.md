@@ -36,7 +36,7 @@
  ### 4. [Video-Rental-Store](https://github.com/neeleshio/Video-Rental-Store#--)
 <div>
   <a href="https://rental-video-store.herokuapp.com/"><img src="https://img.shields.io/badge/live-yes-blueviolet">
-  <img src="https://img.shields.io/badge/responsive-semi-red">
+  <img src="https://img.shields.io/badge/responsive-false-red">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg">
 </div>
   
